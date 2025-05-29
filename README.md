@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Pravesh
 
-<!--
-**PraveshSubba/PraveshSubba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS graduate | Starting MSc Data Science  
+Exploring Web Dev & Machine Learning.
 
-Here are some ideas to get you started:
+### ⚡ Tech Stack
+- 💻 C, C++, Java, Python, JavaScript  
+- 🌐 React, Node.js, Express, Spring Boot  
+- 🗃️ MongoDB, MySQL  
+- 🎨 Tailwind, MUI, AntD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_“Code is not just a skill, it's a superpower.”_ 💻✨
+
