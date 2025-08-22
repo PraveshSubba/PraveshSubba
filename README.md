@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Pravesh
 
-CS graduate | Starting MSc Data Science  
+CS graduate | Studying MSc Data Science  
 Exploring Web Dev & Machine Learning.
 
 ### ⚡ Tech Stack
