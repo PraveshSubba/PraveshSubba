@@ -1,13 +1,10 @@
-## 👋 Hi, I'm Pravesh
+Hi, I'm **Pravesh**.  
+I am currently **pursuing MSc Computer Science (Data Science)** at Sri Sathya Sai Institute of Higher Learning, India.
 
-CS graduate | Studying MSc Data Science  
-Exploring Web Dev & Machine Learning.
+### ⚙️ CORE COMPETENCIES
+- ✏️ C, C++, Java, Python, JavaScript  
+- 🎨 React, Tailwind CSS, MUI, Ant Design  
+- 🔧 Node.js, Express.js, Spring Boot  
+- 🗄️ MongoDB, MySQL  
 
-### ⚡ Tech Stack
-- 💻 C, C++, Java, Python, JavaScript  
-- 🌐 React, Node.js, Express, Spring Boot  
-- 🗃️ MongoDB, MySQL  
-- 🎨 Tailwind, MUI, AntD
-
-_“Code is not just a skill, it's a superpower.”_ 💻✨
-
+*“Code is not just a skill, it's a superpower.”* 💻✨ 
