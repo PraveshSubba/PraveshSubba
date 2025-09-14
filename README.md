@@ -6,6 +6,7 @@ I am currently **pursuing MSc Computer Science (Data Science)** at Sri Sathya Sa
 - 🎨 React, Tailwind CSS, MUI, Ant Design  
 - 🔧 Node.js, Express.js, Spring Boot  
 - 🗄️ MongoDB, MySQL
+<p>
   <sub>
     <a href="https://portfolio-pravesh-subbas-projects.vercel.app/">Me&nbsp;</a> • 
     <a href="https://www.linkedin.com/in/pravesh-subba-53426a24b">&nbsp;LinkedIn&nbsp;</a> • 
