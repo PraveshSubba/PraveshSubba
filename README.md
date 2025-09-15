@@ -1,6 +1,10 @@
 Hi, I'm **Pravesh**.  
 I am currently **pursuing MSc Computer Science (Data Science)** at Sri Sathya Sai Institute of Higher Learning, India.
 
+<picture>
+    <img align="right" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PraveshSubba&theme=tokyonight">
+</picture>
+
 ### ⚙️ CORE COMPETENCIES
 - ✏️ C, C++, Java, Python, JavaScript  
 - 🎨 React, Tailwind CSS, MUI, Ant Design  
